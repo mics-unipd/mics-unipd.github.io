@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "mics-unipd"
+  title: "Verso il futuro del Made in Italy circolare e sostenibile:"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Programma
+      - href: map.qmd
+        text: Mappa Palazzo del Bo
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
