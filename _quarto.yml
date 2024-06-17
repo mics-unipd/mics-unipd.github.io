@@ -4,7 +4,7 @@ project:
 
 website:
   navbar:
-    background: "#264653"
+    background: "#69727d"
     logo: images/MICS_logo-1.png
     left:
       - href: mattina.qmd
