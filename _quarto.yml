@@ -13,6 +13,11 @@ website:
         text: Pomeriggio
       - href: map.qmd
         text: Mappa Palazzo del Bo
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/company/mics-made-in-italy-circolare-e-sostenibile
+      - icon: globe
+        href: https://www.mics.tech/
   sidebar: false
   
 format:
