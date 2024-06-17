@@ -5,4 +5,24 @@ sidebar: false
 editor: visual
 ---
 
-### L'ho perso, me lo rimandi?
+### 14:30-16:30 Mid-Term Meeting
+
+### Spoke 3 
+**Prodotti e materiali green e sostenibili da fonti non critiche e secondarie**
+
+### Spoke 4 
+**Materiali intelligenti e sostenibili per prodotti e processi industriali circolari e aumentati**
+
+### Spoke 5 
+**Fabbriche e processi a ciclo chiuso, sostenibili e inclusivi**
+
+### Spoke 6 
+**La manifattura additiva come fattore dirompente della Twin Transition**
+
+### Spoke 8 
+**Progettazione e gestione della fabbrica orientata al digitale attraverso l'Intelligenza Artificiale e gli approcci basati sull’analisi dati** <br/>
+*Aula: [Archivio Antico](map.html)*
+
+
+### 17:00 Aperitivo Networking Giovani Ricercatori MICS
+*Caffé Pedrocchi*
