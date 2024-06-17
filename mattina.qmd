@@ -4,6 +4,7 @@ subtitle: Aula Magna - Palazzo del Bo
 format: html
 sidebar: false
 editor: visual
+toc: false
 ---
 
 ### 10:00 Accoglienza ospiti

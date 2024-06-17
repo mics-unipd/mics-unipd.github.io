@@ -3,6 +3,7 @@ title: "Programma Pomeriggio"
 format: html
 sidebar: false
 editor: visual
+toc: false
 ---
 
 ### 14:30-16:30 Mid-Term Meeting
