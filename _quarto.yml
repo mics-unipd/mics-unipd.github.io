@@ -7,7 +7,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Programma
+        text: Home
+      - href: mattina.qmd
+        text: Mattina
+      - href: pomeriggio.qmd
+        text: Pomeriggio
       - href: map.qmd
         text: Mappa Palazzo del Bo
 
