@@ -1,57 +1,13 @@
 ---
-title: "Event Program"
 format: html
 sidebar: false
 editor: visual
-
 ---
 
-# Aula Magna - Palazzo del Bo - Università di Padova
 
-## Program
 
-### 10:00 Accoglienza ospiti
+# [Programma Mattino](mattina.html)
 
-### 10:30 Saluti istituzionali
+# [Programma Pomeriggio](pomeriggio.html)
 
-### 10:45 MICS Made in Italy Circolare e Sostenibile
-
-**Prof. [Marco Taisch](https://it.linkedin.com/in/marcotaisch)**, Presidente della Fondazione MICS
-
-### 11:00 Sfide e prospettive dell'intelligenza artificiale
-
-**Ing. Marco Landi**, Institut EuropIA e QuestIT
-
-### 11:20 L’EU AI Act: cos’è e cosa prevede
-
-**Dott. Gabriele Mazzini**, Team leader AI Act, European Commission & MIT Fellow
-
-### 11:40 UNIPD leader di Spoke 8: innovazioni digitali sostenibili e Intelligenza Artificiale per l'industria manifatturiera del Made in Italy
-
-**Prof. Daria Battini**, Università di Padova
-
-### 11:55 Produzione additiva per la Twin Transition - Spoke 6
-
-**Prof. Federica Bondioli**, Politecnico di Torino\
-**Prof. Enrico Savio**, Università di Padova
-
-### 12:10 Fabbriche e processi a ciclo chiuso, sostenibili e inclusivi - Spoke 5
-
-**Prof. Sergio Terzi**, Politecnico di Milano\
-**Prof. Fabrizio Dughiero**, Università di Padova
-
-### 12:25 Materiali intelligenti e sostenibili per la circolarità - Spoke 4
-
-**Prof. Domenico Caputo**, Università degli Studi di Napoli Federico II\
-**Prof.ssa Maria Cristina Lavagnolo**, Università di Padova
-
-### 12:40 Prodotti e materiali verdi e sostenibili - Spoke 3
-
-**Dott. Pierluigi Barbaro**, CNR\
-**Prof.ssa Giulia Licini**, Università di Padova
-
-### 12:55 Conclusioni finali
-
-**Dott. Fabrizio Cobis**, Ministero dell’Università e della Ricerca
-
-### 13:00 – 14:30 Networking lunch in Basilica
+# [Mappa Palazzo Bo](map.html)

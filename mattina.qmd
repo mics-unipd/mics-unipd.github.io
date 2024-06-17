@@ -1,14 +1,10 @@
 ---
-title: "Event Program"
+title: "Programma Mattino"
+subtitle: Aula Magna - Palazzo del Bo
 format: html
 sidebar: false
 editor: visual
-
 ---
-
-# Aula Magna - Palazzo del Bo - Università di Padova
-
-## Program
 
 ### 10:00 Accoglienza ospiti
 
@@ -20,20 +16,20 @@ editor: visual
 
 ### 11:00 Sfide e prospettive dell'intelligenza artificiale
 
-**Ing. Marco Landi**, Institut EuropIA e QuestIT
+**Ing. [Marco Landi*](https://www.linkedin.com/in/marco-landi-6bb8474/)*, Institut EuropIA e QuestIT
 
 ### 11:20 L’EU AI Act: cos’è e cosa prevede
 
-**Dott. Gabriele Mazzini**, Team leader AI Act, European Commission & MIT Fellow
+**Dott. [Gabriele Mazzini](https://www.linkedin.com/in/gabriele-mazzini-2baa948/)**, Team leader AI Act, European Commission & MIT Fellow
 
 ### 11:40 UNIPD leader di Spoke 8: innovazioni digitali sostenibili e Intelligenza Artificiale per l'industria manifatturiera del Made in Italy
 
-**Prof. Daria Battini**, Università di Padova
+**Prof. [Daria Battini](https://www.linkedin.com/in/daria-battini-b7664011/)**, Università di Padova
 
 ### 11:55 Produzione additiva per la Twin Transition - Spoke 6
 
-**Prof. Federica Bondioli**, Politecnico di Torino\
-**Prof. Enrico Savio**, Università di Padova
+**Prof. [Federica Bondioli](https://www.linkedin.com/in/federica-bondioli-123002a/)**, Politecnico di Torino\
+**Prof. [Enrico Savio](https://www.linkedin.com/in/enricosavio/)**, Università di Padova
 
 ### 12:10 Fabbriche e processi a ciclo chiuso, sostenibili e inclusivi - Spoke 5
 

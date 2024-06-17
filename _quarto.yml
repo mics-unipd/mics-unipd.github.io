@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Verso il futuro del Made in Italy circolare e sostenibile:"
   navbar:
+    background: "#264653"
+    logo: images/MICS_logo-1.png
     left:
-      - href: index.qmd
-        text: Home
       - href: mattina.qmd
-        text: Mattina
+        text: Mattino
       - href: pomeriggio.qmd
         text: Pomeriggio
       - href: map.qmd
         text: Mappa Palazzo del Bo
-
+  sidebar: false
+  
 format:
   html:
     theme: lux
