@@ -1,0 +1,31 @@
+---
+title: "Programma Pomeriggio Spoke 6"
+format: html
+sidebar: false
+editor: visual
+toc: false
+---
+
+### 14:30-15:15 - Plenary meeting Spoke 6
+**Coordina: Federica Bondioli**<br/>
+*Aula Ederle*
+
+### 15:15-17:15 <br/> 6.8 WASTELESS: Enhancing Additive Manufacturing for Waste Reduction through Big Data mining, in-situ monitoring and control and net-shape design and production<br/> 6.9 MATT-Multimaterial Additive Technology and Tools
+**Coordina: Bianca Maria Colosimo**<br/>
+*Aula Ederle*
+
+### 15:30-16:30 <br/> 6.4 Development of new alloys with improved properties and decreased environmental impact for AM powder production
+**Coordina: Marco Actis**<br/>
+*Aula Omizzolo*
+
+### 15:30-16:30 <br/> 6.5 Development of additive technologies for consolidation of precious and non-precious materials for the fashion industry
+**Coordina: Elisa Padovano**<br/>
+*Aula Vigini*
+
+### 15:30-16:30 <br/> 6.7 Innovative polymers and polymer-based composites for engineering and design applications
+**Coordina: Massimo Messori**<br/>
+*Aula L*
+
+### 15:45-16:45 <br/> 6.3 4D printing for the automation sector
+**Coordina: Irene Fassi**<br/>
+*Sala riunioni terzo piano, Dip. di Ing. Industriale, via Venezia 1* 

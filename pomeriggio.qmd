@@ -6,24 +6,27 @@ editor: visual
 toc: false
 ---
 
-### 14:30-16:30 Mid-Term Meeting
 
-### Spoke 3 
+### 14:30-16:30 Spoke 3 
 **Prodotti e materiali green e sostenibili da fonti non critiche e secondarie**
+*Sala Riunioni del [Dipartimento di Scienze Chimiche, Via Marzolo, 1](https://maps.app.goo.gl/cfx6W1SB36N8uEDa6)* 
 
-### Spoke 4 
-**Materiali intelligenti e sostenibili per prodotti e processi industriali circolari e aumentati**
+### 14:30-18:00 Spoke 4 
+**Gli scarti industriali: recuperare risorse dai rifiuti** (evento aperto a tutti i partecipanti)
+*[Programma dettagliato](spoke4_programma_pomeriggio.html)*<br/>
+*[Aula Nievo](map.html)*
 
-### Spoke 5 
-**Fabbriche e processi a ciclo chiuso, sostenibili e inclusivi**
+### 14:30-16:30 Spoke 5 
+**Fabbriche e processi a ciclo chiuso, sostenibili e inclusivi**<br/>
+*[Aula D'Ayala](map.html)*
 
-### Spoke 6 
-**La manifattura additiva come fattore dirompente della Twin Transition**
+### 14:30-16:30 Spoke 6 
+**La manifattura additiva come fattore dirompente della transizione gemella**<br/>
+*[Programma dettagliato](spoke6_programma_pomeriggio.html)*
 
-### Spoke 8 
+### 14:30-16:30 Spoke 8 
 **Progettazione e gestione della fabbrica orientata al digitale attraverso l'Intelligenza Artificiale e gli approcci basati sull’analisi dati** <br/>
-*Aula: [Archivio Antico](map.html)*
-
+*[Archivio Antico](map.html)*
 
 ### 17:00 Aperitivo Networking Giovani Ricercatori MICS
 *Caffé Pedrocchi*
