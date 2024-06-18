@@ -15,11 +15,7 @@ toc: false
 
 **Prof. [Marco Taisch](https://it.linkedin.com/in/marcotaisch)**, Presidente della Fondazione MICS
 
-### 11:00 Sfide e prospettive dell'intelligenza artificiale
-
-**Ing. [Marco Landi](https://www.linkedin.com/in/marco-landi-6bb8474/)**, Institut EuropIA e QuestIT
-
-### 11:20 L’EU AI Act: cos’è e cosa prevede
+### 11:10 L’EU AI Act: cos’è e cosa prevede
 
 **Dott. [Gabriele Mazzini](https://www.linkedin.com/in/gabriele-mazzini-2baa948/)**, Team leader AI Act, European Commission & MIT Fellow
 
