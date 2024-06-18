@@ -1,0 +1,15 @@
+---
+title: "Come Raggiungerci "
+format: html
+editor: visual
+toc: false
+---
+
+## Palazzo del Bo
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2801.128946817653!2d11.874575977607956!3d45.40673927107286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eda505c990db3%3A0xf3145372e730e3fb!2sPalazzo%20del%20Bo!5e0!3m2!1sit!2sit!4v1718709494276!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Dove Parcheggiare
+
+### Parcheggio Piazza Insurrezione
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5601.991438277522!2d11.8752488!3d45.409425899999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eda4536496649%3A0x4adb7a656b48bc17!2sParcheggio%20Piazza%20Insurrezione!5e0!3m2!1sit!2sit!4v1718709230026!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

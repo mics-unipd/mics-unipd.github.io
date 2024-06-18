@@ -13,6 +13,8 @@ website:
         text: Pomeriggio
       - href: map.qmd
         text: Mappa Palazzo del Bo
+      - href: indicazioni.qmd
+        text: Come Raggiungerci
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/company/mics-made-in-italy-circolare-e-sostenibile

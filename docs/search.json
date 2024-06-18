@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Programma Mattino",
     "section": "",
-    "text": "Programma Mattino\n\n\nProgramma Pomeriggio\n\n\nMappa Palazzo Bo"
+    "text": "Programma Mattino\n\n\nProgramma Pomeriggio\n\n\nMappa Palazzo Bo\n\n\nCome Raggiungerci"
   },
   {
-    "objectID": "mattina.html",
-    "href": "mattina.html",
-    "title": "Programma Mattino",
-    "section": "",
-    "text": "10:00 Accoglienza ospiti\n\n\n10:30 Saluti istituzionali\n\n\n10:45 MICS Made in Italy Circolare e Sostenibile\nProf. Marco Taisch, Presidente della Fondazione MICS\n\n\n11:10 L’EU AI Act: cos’è e cosa prevede\nDott. Gabriele Mazzini, Team leader AI Act, European Commission & MIT Fellow\n\n\n11:40 Spoke 8: innovazioni digitali sostenibili e Intelligenza Artificiale per l’industria manifatturiera del Made in Italy\nProf. Daria Battini, Università di Padova\n\n\n11:55 Spoke 6: Produzione additiva per la Twin Transition\nProf. Federica Bondioli, Politecnico di Torino\nProf. Enrico Savio, Università di Padova\n\n\n12:10 Spoke 5: Fabbriche e processi a ciclo chiuso, sostenibili e inclusivi\nProf. Sergio Terzi, Politecnico di Milano\nProf. Fabrizio Dughiero, Università di Padova\n\n\n12:25 Spoke 4: Materiali intelligenti e sostenibili per la circolarità\nProf. Domenico Caputo, Università degli Studi di Napoli Federico II\nProf.ssa Maria Cristina Lavagnolo, Università di Padova\n\n\n12:40 Spoke 3: Prodotti e materiali verdi e sostenibili\nDott. Pierluigi Barbaro, CNR\nProf.ssa Giulia Licini, Università di Padova\n\n\n12:55 Conclusioni finali\nDott. Fabrizio Cobis, Ministero dell’Università e della Ricerca\n\n\n13:00 – 14:30 Networking lunch in Basilica"
+    "objectID": "indicazioni.html#dove-parcheggiare",
+    "href": "indicazioni.html#dove-parcheggiare",
+    "title": "Come Raggiungerci",
+    "section": "Dove Parcheggiare",
+    "text": "Dove Parcheggiare\n\nParcheggio Piazza Insurrezione"
   },
   {
     "objectID": "pomeriggio.html",
@@ -19,6 +19,13 @@
     "title": "Programma Pomeriggio",
     "section": "",
     "text": "14:30-16:30 Spoke 3\nProdotti e materiali green e sostenibili da fonti non critiche e secondarie Sala Riunioni del Dipartimento di Scienze Chimiche, Via Marzolo, 1\n\n\n14:30-18:00 Spoke 4\nGli scarti industriali: recuperare risorse dai rifiuti (evento aperto a tutti i partecipanti) Programma dettagliato Aula Nievo\n\n\n14:30-16:30 Spoke 5\nFabbriche e processi a ciclo chiuso, sostenibili e inclusivi Aula D’Ayala\n\n\n14:30-16:30 Spoke 6\nLa manifattura additiva come fattore dirompente della transizione gemella Programma dettagliato\n\n\n14:30-16:30 Spoke 8\nProgettazione e gestione della fabbrica orientata al digitale attraverso l’Intelligenza Artificiale e gli approcci basati sull’analisi dati  Archivio Antico\n\n\n17:00 Aperitivo Networking Giovani Ricercatori MICS\nCaffé Pedrocchi"
+  },
+  {
+    "objectID": "mattina.html",
+    "href": "mattina.html",
+    "title": "Programma Mattino",
+    "section": "",
+    "text": "10:00 Accoglienza ospiti\n\n\n10:30 Saluti istituzionali\n\n\n10:45 MICS Made in Italy Circolare e Sostenibile\nProf. Marco Taisch, Presidente della Fondazione MICS\n\n\n11:10 L’EU AI Act: cos’è e cosa prevede\nDott. Gabriele Mazzini, Team leader AI Act, European Commission & MIT Fellow\n\n\n11:40 Spoke 8: innovazioni digitali sostenibili e Intelligenza Artificiale per l’industria manifatturiera del Made in Italy\nProf. Daria Battini, Università di Padova\n\n\n11:55 Spoke 6: Produzione additiva per la Twin Transition\nProf. Federica Bondioli, Politecnico di Torino\nProf. Enrico Savio, Università di Padova\n\n\n12:10 Spoke 5: Fabbriche e processi a ciclo chiuso, sostenibili e inclusivi\nProf. Sergio Terzi, Politecnico di Milano\nProf. Fabrizio Dughiero, Università di Padova\n\n\n12:25 Spoke 4: Materiali intelligenti e sostenibili per la circolarità\nProf. Domenico Caputo, Università degli Studi di Napoli Federico II\nProf.ssa Maria Cristina Lavagnolo, Università di Padova\n\n\n12:40 Spoke 3: Prodotti e materiali verdi e sostenibili\nDott. Pierluigi Barbaro, CNR\nProf.ssa Giulia Licini, Università di Padova\n\n\n12:55 Conclusioni finali\nDott. Fabrizio Cobis, Ministero dell’Università e della Ricerca\n\n\n13:00 – 14:30 Networking lunch in Basilica"
   },
   {
     "objectID": "spoke6_programma_pomeriggio.html",

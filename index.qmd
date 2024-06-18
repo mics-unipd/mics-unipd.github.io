@@ -12,3 +12,6 @@ toc: false
 # [Programma Pomeriggio](pomeriggio.html)
 
 # [Mappa Palazzo Bo](map.html)
+
+# [Come Raggiungerci](indicazioni.html)
+
